@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/application/config/constants.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
-              <caret line="110" column="63" lean-forward="false" selection-start-line="110" selection-start-column="63" selection-end-line="110" selection-end-column="63" />
+              <caret line="101" column="4" lean-forward="false" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -373,7 +373,7 @@
       <option name="presentableId" value="Default" />
       <updated>1483074979693</updated>
       <workItem from="1483074983216" duration="8394000" />
-      <workItem from="1483507054103" duration="3293000" />
+      <workItem from="1483507054103" duration="3335000" />
     </task>
     <task id="LOCAL-00001" summary="strom">
       <created>1483081813164</created>
@@ -403,11 +403,18 @@
       <option name="project" value="LOCAL" />
       <updated>1483515063758</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="strom">
+      <created>1483515104350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1483515104350</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11687000" />
+    <option name="totallyTimeSpent" value="11729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -842,7 +849,7 @@
     <entry file="file://$PROJECT_DIR$/application/config/constants.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="110" column="63" lean-forward="false" selection-start-line="110" selection-start-column="63" selection-end-line="110" selection-end-column="63" />
+          <caret line="101" column="4" lean-forward="false" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
           <folding />
         </state>
       </provider>
